@@ -1,11 +1,16 @@
 _repo: Ylioppilaan-kosinta-1-naytoksinen-laulunsekainen-kansannaytyelma_62373
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kainulainen, Ruupert
     gutenberg_agent_id: '51915'
     url: http://www.gutenberg.org/2009/agents/51915
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62373#Ylioppilaan-kosinta-1-naytoksinen-laulunsekainen-kansannaytyelma
 gutenberg_issued: '2020-06-11'
 gutenberg_type: Text
 identifiers:
